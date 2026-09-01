@@ -40,7 +40,7 @@ To make sure a massive global company like Walmart can be fairly compared to UK-
 
 ## 📆 4. Project Timeline & Progress Tracker
 
-This checklist shows exactly how the project is being managed over the 4-week timeline. (Charles can follow live updates here).
+This checklist shows exactly how the project is being managed over the 4-week timeline. 
 
 ### Phase 1: Data Gathering (Week 1)
 * [x] Create this repository and set up a clean project framework.
