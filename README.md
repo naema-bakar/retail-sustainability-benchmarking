@@ -19,13 +19,13 @@ The analysis looks directly at each retailer's **official annual sustainability 
 To maintain complete analytical transparency, this study relies on verified figures extracted directly from the following independent frameworks:
 
 * **SBTi (Science Based Targets initiative)**  
-  *Method:* Data is extracted from the master dashboard to benchmark verified 1.5°C and FLAG target timelines.
+  Data is extracted from the master dashboard to benchmark verified 1.5°C and FLAG target timelines.
 * **CDP (Carbon Disclosure Project)**  
-  *Method:* Official letter grades are analysed alongside detailed company questionnaires sourced from investor archives to isolate localised food and agricultural footprints.
+ Official letter grades are analysed alongside detailed company questionnaires sourced from investor archives to isolate localised food and agricultural footprints.
 * **WBA (World Benchmarking Alliance)**  
-  *Method:* Rankings from the Food and Agriculture Benchmark are utilised to grade retailers on food specific criteria like food waste and packaging.
+  Rankings from the Food and Agriculture Benchmark are utilised to grade retailers on food specific criteria like food waste and packaging.
 * **Official Corporate Disclosures**  
-  *Method:* Baselines and qualitative strategies are pulled directly from each retailer's primary annual sustainability and ESG reports.
+  Baselines and qualitative strategies are pulled directly from each retailer's primary annual sustainability and ESG reports.
 
    
 
