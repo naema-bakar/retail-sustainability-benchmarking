@@ -1,1 +1,1 @@
-## Explanatory guides for SBTi, CDP, and WBA frameworks
+Explanatory guides for SBTi, CDP, and WBA frameworks
