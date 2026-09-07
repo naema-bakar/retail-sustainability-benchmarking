@@ -46,7 +46,7 @@ This checklist shows exactly how the project is being managed over the 4 week ti
 * [x] Create this repository and set up a clean project framework.
 * [ ] Extract carbon data from Tesco's latest 2026 Sustainability Report.
 * [ ] Collect identical sustainability data from Sainsbury's and Walmart's recent annual reports.
-* [ ] Pull the official independent scores for all three retailers from the SBTi and CDP databases.
+* [x] Pull the official independent scores for all three retailers from the SBTi and CDP databases.
 
 ### Phase 2: Data Cleaning & Standardising (Week 2)
 * [ ] Adjust revenue numbers to a single currency baseline (GBP £) for a fair comparison.
